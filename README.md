@@ -1,4 +1,4 @@
-🧮 stock_basic.cpp — In-Memory Product Manager
+🧮 stock_basic.cpp — In-Memory Product Manager (main.cpp)
 
 A lightweight and beginner-friendly C++ console application that helps manage product stock entirely in memory.
 This version allows users to add, list, and calculate the total value of all products currently registered.
@@ -17,7 +17,7 @@ It’s a great introduction to structured programming in C++, showcasing:
 
 -----------------------------------------------------------------------------------------------------------------
 
-💾 stock_database.cpp — Persistent Product Manager with CSV Database
+💾 stock_database.cpp — Persistent Product Manager with CSV Database (data_base.cpp)
 
 An enhanced and more robust C++ inventory management system that adds file persistence to store product data permanently using a CSV database (Database.csv).
 It supports complete product lifecycle management, including add, consult, update, and delete operations.
