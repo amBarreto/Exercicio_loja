@@ -7,7 +7,7 @@ using namespace std;
 struct Produto
 {
     int id;
-    char status; // A -> ativo / D -> eliminado
+    char status; // A -> ativo / D -> eliminado   
     string nome;
     float preco;
     int quantidade;
